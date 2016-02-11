@@ -3,4 +3,6 @@ title: Video
 permalink: /videos/
 ---
 
-New Video Project 
+Fav
+
+[B.Brown](https://www.youtube.com/watch?v=1Evwgu369Jw)
