@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "kzmr-jnz"
+date:   2016-03-04
+categories:
+---
+
+
+
+kz-mr-
+jnz
+
+![]()nsert Cover here
+
+tracklist
+
+1-intro
+2-thefuturisticforever
+3-dr.actor.cula
+4-
+
+13-somewhere in California
