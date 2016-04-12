@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pleasure of Finding Things Out"
+date:   2016-04-11
+categories:
+---
+
+
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x24gwgc" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x24gwgc_richard-feynman-the-pleasure-of-finding-things-out_news" target="_blank">Richard Feynman - The Pleasure of Finding...</a> <i>by <a href="http://www.dailymotion.com/Mazanga_Von_Badman" target="_blank">Mazanga_Von_Badman</a></i>
