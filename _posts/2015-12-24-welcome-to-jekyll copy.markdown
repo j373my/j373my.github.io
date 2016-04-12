@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Driven to Defiance"
+title:  "Martin Luther"
 date:   2015-12-24 20:52:53 -0500
 categories: jekyll update
 ---
