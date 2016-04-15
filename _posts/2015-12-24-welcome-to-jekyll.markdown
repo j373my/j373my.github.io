@@ -4,6 +4,9 @@ title:  "Welcome to Jell!"
 date:   2015-12-24 20:52:53 -0500
 categories: jekyll update
 ---
+
+![W-Map]({{ j373my.github.io }}/posts/lombardi-05-big.jpg)
+
 ![alt text](lombardi-05-big.jpg "W.")
 
 <img src="lombardi-05-big.jpg" alt="" usemap="#map" />
