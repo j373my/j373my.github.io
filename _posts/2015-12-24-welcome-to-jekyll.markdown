@@ -15,7 +15,7 @@ categories: jekyll update
     <area shape="circle" coords="314, 385, 22" href="https://en.wikipedia.org/wiki/Arbusto_Energy" title="Arbusto" />
 </map>
 
-<img src="lombardi-05-big.jpg" />
+<img src="7.jpg" />
 
 
 
