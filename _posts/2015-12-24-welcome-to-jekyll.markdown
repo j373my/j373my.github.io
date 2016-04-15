@@ -5,9 +5,7 @@ date:   2015-12-24 20:52:53 -0500
 categories: jekyll update
 ---
 
-![W-Map]({{ thefutureforever.com }}/lombardi-05-big.jpg)
 
-![W.](lombardi-05-big.jpg "W.")
 
 <img src="lombardi-05-big.jpg" alt="" usemap="#map" />
 <map name="map">
@@ -19,4 +17,11 @@ categories: jekyll update
 
 <img src="lombardi-05-big.jpg" />
 
-lombardi-05-big.jpg
+
+
+
+![My helpful screenshot]({{ site.url }}/assets/lombardi-05-big.jpg)
+
+![My helpful screenshot]({{ thefutureforever.com }}/assets/lombardi-05-big.jpg)
+
+![My helpful screenshot]({{ j373my.github.io }}/assets/lombardi-05-big.jpg)
