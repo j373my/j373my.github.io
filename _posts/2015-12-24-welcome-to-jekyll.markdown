@@ -7,7 +7,7 @@ categories: jekyll update
 
 ![W-Map]({{ thefutureforever.com }}/lombardi-05-big.jpg)
 
-![alt text](lombardi-05-big.jpg "W.")
+![W.](lombardi-05-big.jpg "W.")
 
 <img src="lombardi-05-big.jpg" alt="" usemap="#map" />
 <map name="map">
