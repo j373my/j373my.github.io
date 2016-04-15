@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-<img src="j373my.github.io/_posts/lombardi-05-big.jpg" alt="" usemap="#map" />
+<img src="lombardi-05-big.jpg" alt="" usemap="#map" />
 <map name="map">
     <area shape="circle" coords="1212, 197, 35" href="https://en.wikipedia.org/wiki/George_W._Bush" />
     <area shape="circle" coords="1202, 187, 35" href="https://en.wikipedia.org/wiki/George_W._Bush" />
@@ -14,4 +14,4 @@ categories: jekyll update
     <area shape="circle" coords="314, 385, 22" href="https://en.wikipedia.org/wiki/Arbusto_Energy" title="Arbusto" />
 </map>
 
-<img src="posts/lombardi-05-big.jpg">
+<img src="lombardi-05-big.jpg />
