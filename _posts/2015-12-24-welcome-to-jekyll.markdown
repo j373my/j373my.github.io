@@ -5,7 +5,7 @@ date:   2015-12-24 20:52:53 -0500
 categories: jekyll update
 ---
 
-![W-Map]({{ thefutureforever.com }}/posts/lombardi-05-big.jpg)
+![W-Map]({{ thefutureforever.com }}/lombardi-05-big.jpg)
 
 ![alt text](lombardi-05-big.jpg "W.")
 
