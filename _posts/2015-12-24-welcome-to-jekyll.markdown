@@ -19,3 +19,4 @@ categories: jekyll update
 
 <img src="lombardi-05-big.jpg" />
 
+lombardi-05-big.jpg
