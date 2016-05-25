@@ -4,8 +4,7 @@ title:  "Liberty! The American Revolution"
 date:   2015-04-11 20:52:53 -0500
 categories: jekyll update
 ---
-Liberty!
-	LIBERTY! is a six-part series of one-hour documentaries for PBS. It describes how the American Revolution evolved and how a new nation was born in the aftermath of the Revolutionary War, using actors, Revolutionary era scholars, and eyewitness accounts of the time.
+LIBERTY! is a six-part series of one-hour documentaries for PBS. It describes how the American Revolution evolved and how a new nation was born in the aftermath of the Revolutionary War, using actors, Revolutionary era scholars, and eyewitness accounts of the time.
 	
 EPISODE 1: "The Reluctant Revolutionaries" 1763-1774
 In 1763, the capitol city of America is London, George Washington is lobbying for a post in the British army, and no one thinks of Boston harbor when they hear talk of tea parties. In a dozen years, the colonies are on the brink of rebellion. What happens to bring this country so quickly near war with England?  
