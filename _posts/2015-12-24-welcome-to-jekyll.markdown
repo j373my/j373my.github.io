@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jell!"
-date:   2015-12-24 20:52:53 -0500
-categories: jekyll update
+title: "Podcast Title"
+date: 2015-12-23 14:37:00
+file: https://drive.google.com/a/thefutureforever.com/file/d/0B2nvoIxi5xoeZXBiY2xBNXdqeEU/view
+file_itunes: //path-to-your/file.m4a
+excerpt: Write an excerpt here. Remeber that you should xml escape special characters. If you are german: don't use umlauts here.
+summary: Write a summary here. Remeber that you should xml escape special characters. If you are german: don't use umlauts here.
+duration: "14:50" #audio length in min
+length: "14459510" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
+Here goes your regular article content in markdown
 
-
-
-<img src="j373my.github.io/assets/lombardi-05-big.jpg" alt="" usemap="#map" />
-<map name="map">
-    <area shape="circle" coords="1212, 197, 35" href="https://en.wikipedia.org/wiki/George_W._Bush" />
-    <area shape="circle" coords="1202, 187, 35" href="https://en.wikipedia.org/wiki/George_W._Bush" />
-    <area shape="circle" coords="1222, 207, 35" href="https://en.wikipedia.org/wiki/George_W._Bush" />
-    <area shape="circle" coords="314, 385, 22" href="https://en.wikipedia.org/wiki/Arbusto_Energy" title="Arbusto" />
-</map>
-
-<img src="7.jpg" />
-
+https://drive.google.com/a/thefutureforever.com/file/d/0B2nvoIxi5xoeZXBiY2xBNXdqeEU/view
 
 
 
