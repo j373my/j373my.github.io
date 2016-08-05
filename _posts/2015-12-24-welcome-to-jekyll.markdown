@@ -1,24 +1,21 @@
 ---
 layout: post
-title: "Podcast Title"
-date: 2015-12-23 14:37:00
-file: https://drive.google.com/a/thefutureforever.com/file/d/0B2nvoIxi5xoeZXBiY2xBNXdqeEU/view
-file_itunes: //path-to-your/file.m4a
-excerpt: Write an excerpt here. Remeber that you should xml escape special characters. If you are german: don't use umlauts here.
-summary: Write a summary here. Remeber that you should xml escape special characters. If you are german: don't use umlauts here.
-duration: "14:50" #audio length in min
-length: "14459510" #filesize in byte
-explicit: "yes" #other option is no
-block: "no" #means is shown in itunes
+title:  "Notes on Ubiquitous Plaintext Capture"
+date:   2016-08-01
+categories: productivity
 ---
-Here goes your regular article content in markdown
 
-https://drive.google.com/a/thefutureforever.com/file/d/0B2nvoIxi5xoeZXBiY2xBNXdqeEU/view
+Notes on Ubiquitous Plaintext Capture 
 
+Simplenote + Dropbox + nvALT
 
+1. Plaintext
+2. Non-proprietary
+3. Browser + Mobile
+4. Browser Tab Extension
+5. Offline mode
 
-![My helpful screenshot]({{ site.url }}/assets/lombardi-05-big.jpg)
+Links:
 
-![My helpful screenshot]({{ thefutureforever.com }}/assets/lombardi-05-big.jpg)
-
-![My helpful screenshot]({{ j373my.github.io }}/assets/lombardi-05-big.jpg)
+http://zenhabits.net/tips-for-gtds-ubiquitous-capture/
+http://www.43folders.com/topics/ubiquitouscapture
