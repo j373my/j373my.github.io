@@ -4,7 +4,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en'
 
 # Website info
 name: 'Notes to a Future Perfect Self'
@@ -19,11 +19,11 @@ location: 'NYC, USA'
 url: 'http://thefutureforever.com'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'j373my.github.io'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
