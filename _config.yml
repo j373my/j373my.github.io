@@ -7,16 +7,16 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Notes to a Future Perfect Self'
+description: "The story begins here."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Jeremy'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: Jeremy
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+location: 'NYC, USA'
+url: 'http://thefutureforever.com'
 image: 'assets/images/casper.png'
 
 short_url: 'biomadeira.github.io/jasper/'
