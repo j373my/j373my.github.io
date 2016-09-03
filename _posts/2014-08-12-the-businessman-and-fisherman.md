@@ -43,3 +43,10 @@ The American laughed and said, “That’s the best part. When the time is right
 Adapted from the "Anekdote zur Senkung der Arbeitsmoral" by **Heinrich Böll**
 
 An influential German write and Nobel Prize for Literature in 1972.
+
+<div data-embed_type="product" data-shop="the-future-forever.myshopify.com" data-product_name="TONTO - Scout Pack" data-product_handle="tonto-scout-pack" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
+<script type="text/javascript">
+document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
+</script>
+<noscript><a href="https://the-future-forever.myshopify.com/cart/28309123718:1" target="_blank">Buy TONTO - Scout Pack</a></noscript>
+
