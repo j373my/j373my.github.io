@@ -17,3 +17,15 @@ But, in a larger sense, we can not dedicate-we can not consecrate-we can not hal
 By **Abraham Lincoln**
 
 The 16th president of the USA until he was assassinated in April of 1963. He led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
+
+<form action="/your-charge-code" method="POST">
+<script
+  src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+  data-key="pk_test_szrQCFICS1Jr4WfPB9KsOhs8"
+  data-amount="2000"
+  data-name="Demo Site"
+  data-description="2 widgets"
+  data-image="/img/documentation/checkout/marketplace.png"
+  data-locale="auto">
+</script>
+</form>
